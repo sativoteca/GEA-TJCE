@@ -1,0 +1,216 @@
+---
+title: "Caderno de encargos e especificações técnicas"
+author: "Rodrigo Bardon"
+date: "2023-07-31"
+output: 
+  html_document:
+    highlight: textmate
+    theme: flatly
+    number_section: yes
+    toc: yes
+    toc_float: 
+      collapse: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#	SERVIÇOS PRELIMINARES  
+  
+##	APRESENTAÇÃO    
+
+Esta especificação estabelece a sistemática a ser empregada na execução e no controle da qualidade dos serviços preliminares.    
+    
+##	OBJETIVO    
+  
+Fixar as características técnicas e de qualidade exigidas para os serviços preliminares de acordo com os elementos constantes no projeto, assim como fornecer aos proponentes elementos para a preparação das propostas, estabelecendo normas e métodos de execução que serão adotados no decorrer dos serviços.    
+  
+##	REFERÊNCIAS       
+  
+Serão obedecidas as recomendações da NBR 6484/2001 - Execução de sondagem de simples reconhecimento dos solos.   
+  
+## CONDIÇÕES GERAIS   
+  
+Este item trata dos serviços que serão executados pela CONTRATADA, às suas expensas, para propiciar os meios necessários à realização dos principais serviços e incluem, sem se limitar, necessariamente, além da mobilização e desmobilização, todos os trabalhos relativos a demolições, raspagem e limpeza do terreno, retirada de árvores, locação da obra, instalação da CONTRATADA, e construção do canteiro da obra.   
+  
+Todas as medidas pertinentes serão tomadas pela CONTRATADA para a mobilização dos recursos necessários ao início e desenvolvimento dos trabalhos, imediatamente após a assinatura do contrato ou imediatamente após a aceitação por parte da CONTRATADA da Ordem de Serviço emitida pelo CONTRATANTE (o que ocorrer primeiro).    
+  
+Após a emissão da Ordem de Serviço, a CONTRATADA solicitará à Secretaria de Obras do município onde será construída a edificação o Alvará de Construção ou Declaração de Dispensa, o que será apresentado à CONTRATANTE em seu Departamento de Engenharia.   
+  
+O canteiro da obra e suas vias de acesso e circulação interna serão construídos e mantidos em boa ordem e transitáveis, sem ônus para o CONTRATANTE, devendo a CONTRATADA, para isso, promover uma drenagem adequada da área e periódica limpeza e remoção do local de entulhos ou materiais imprestáveis, às suas expensas.
+  
+## CONDIÇÕES ESPECÍFICAS   
+  
+### SONDAGEM DO TERRENO   
+
+Quando necessário, a critério da fiscalização, a CONTRATADA mandará proceder a ensaios adicionais de caracterização do terreno ou de análise de agressividade de águas subterrâneas.   
+  
+Para perfeita verificação do comportamento das fundações poderão ser exigidas pela FISCALIZAÇÃO provas de carga. Na impossibilidade de serem efetivadas, face ao andamento da obra, serão efetuadas medidas de recalque. Em qualquer dos casos, as despesas correspondentes serão de responsabilidade da CONTRATADA.    
+  
+### DEMOLIÇÕES E RETIRADAS    
+  
+O primeiro serviço preliminar executado será o das demolições e retiradas previstas em projeto das edificações existentes.   
+  
+#### Demolições   
+  
+Conforme o porte das edificações, as demolições poderão ser realizadas de forma manual ou mecânica.   
+  
+##### As demolições abrangerão os seguintes elementos:    
+  
+•	Piso industrial;  
+•	Piso cerâmico;  
+•	Piso de granito (incluindo ou não a demolição de lastro de concreto);  
+•	Piso em pedra portuguesa;  
+•	Piso em ladrilho hidráulico;  
+•	Piso em pedra cariri;  
+•	Piso em pré-moldados;  
+•	Base para mastros;  
+•	Calçada;  
+•	Calçamento;  
+•	Degraus em mármore;  
+•	Meio-fio granítico;  
+•	Paralelepípedo com empilhamento;  
+•	Proteção em cimentado da impermeabilização existente;  
+•	Rodapé em alumínio;  
+•	Reboco;  
+•	Revestimento;  
+•	Revestimento de argamassa de cal e areia;  
+•	Revestimento em granito/mármore;  
+•	Revestimento em azulejo/cerâmica;  
+•	Alvenaria de pedra argamassada;  
+•	Alvenaria de pedra e fundações em concreto;  
+•	Alvenaria de tijolo cerâmico;  
+•	Alvenaria de tijolo comum (com ou sem reaproveitamento);  
+•	Alvenaria de ½ vez – tijolos furados;  
+•	Rasgo na alvenaria para passagem de tubulações das instalações;  
+•	Muro (só alvenaria, permanecendo a fundação);  
+•	Muro completo (alvenaria de elevação e fundação);  
+•	Pontaletes de alvenaria;  
+•	Divisória leve;  
+•	Esquadrias de alumínio e ferro;  
+•	Anéis de concreto;  
+•	Concreto armado;  
+•	Concreto simples;  
+•	Concreto armado com martelete pneumático;  
+•	Concreto armado (demolição manual); 
+•	Cinta de concreto; 
+•	Laje pré-moldada; 
+•	Prateleira de concreto; 
+•	Estrutura em metalon; 
+•	Forro de fibra mineral (estrutura e placas); 
+•	Forro em lambri metálico; 
+•	Forro pacote; 
+•	Forro em PVC; 
+•	Forro de gesso; 
+•	Madeiramento de coberta para telha cerâmica 
+•	Madeiramento de coberta em fibrocimento; 
+•	Coberta (madeiramento e telhamento); 
+•	Coberta com telha de fibrocimento; 
+•	Coberta de telha colonial (madeira e telha).
+ 
+
+##### As demolições ocorrerão de acordo com o disposto a seguir:    
+
+A execução deste serviço será orientada por profissional habilitado, utilizando equipamentos adequados de modo a não danificar a estrutura da edificação e obedecendo aos critérios d segurança recomendados.
+Antes de iniciarem-se as demolições, serão tomadas medidas adequadas, tais como o desligamento, retirada ou proteção das linhas de abastecimento de energia elétrica, água, gás e tubulações hidrossanitárias.
+O calçamento e os meios-fios graníticos e pré-moldados serão limpos, transportados e armazenados, conforme orientação da fiscalização.
+No caso de demolição de piso de paralelepípedo, estes serão limpos, transportados e armazenados devidamente empilhados.
+O rasgo na alvenaria será executado seguindo rigorosamente o projeto executivo. Antes de começar o trabalho de corte o traçado da tubulação, a posição de registros e os pontos de alimentação, estarão previamente lançados nas paredes para evitar erros e improvisações. Com o auxílio de talhadeira e martelo serão abertos rasgos nas alvenarias seguindo-se as linhas previamente traçadas. Os rasgos serão proporcionais aos diâmetros dos tubos, evitando-se assim, sulcos muito largos ou profundos. Quebra e retirada de alvenaria para a passagem de tubulações das instalações.
+Os azulejos serão retirados cuidadosamente, com a utilização de ferramentas adequadas de modo a não danificar as instalações e equipamentos existentes no local.
+Para demolições estruturais, a CONTRATADA fará uma avaliação prévia e periódica nas edificações vizinhas, no sentido de ser preservada a sua estabilidade.
+Os lastros de concreto nas áreas de escavação das fundações, bem como para passagem da tubulação embutida no piso serão demolidos conforme definido nos projetos de instalações e estrutural.
+O concreto armado poderá ser demolido, utilizando-se o martelete pneumático.
+A cinta de concreto e o concreto armado serão demolidos cuidadosamente com a utilização de ponteiros. 
+Todos os materiais em condições de serem reaproveitados serão retirados cuidadosamente, limpos, transportados e armazenados em local apropriado.
+
+#### Retiradas    
+
+##### As retiradas abrangerão os seguintes elementos:   
+
+•	Meio-fio pré-moldado;
+•	Pedra tosca;
+•	Soleiras;
+•	Carpete;
+•	Rodapé;
+•	Cola de piso através de lixamento;
+•	Piso paviflex (com e sem bota-fora);
+•	Manta asfáltica;
+•	Divisórias leves e portas;
+•	Esquadria de alumínio e vidro;
+•	Esquadrias de madeira;
+•	Esquadrias de vidro;
+•	Forramento e alizar em madeira;
+•	Esquadrias de ferro (portões, grades e gradis);
+•	Grades de ar-condicionado;
+•	Instalações hidrossanitárias (tubos, conexões e isolamento de pontos);
+•	Chuveiro;
+•	Válvula de descarga;
+•	Louça sanitária;
+•	Bancada de granito;
+•	Bancada de mármore;
+•	Pia de cozinha;
+•	Eletrodutos;
+•	Fiação;
+•	Cabeamento;
+•	Tomadas e interruptores;
+•	Luminárias;
+•	Motor automático para portão;
+•	Caixas de som embutidas;
+•	Grelhas de ar-condicionado;
+•	Telão para retroprojetor;
+•	Peça de concreto da fachada; 
+•	Caixas de ar-condicionado;
+•	Rodatetos de gesso e madeira;
+•	Roseta (grande) do teto;
+•	Junta de dilatação existente com mastique (incluindo limpeza);
+•	Rufo pré-moldado de concreto;
+•	Chapim em concreto pré-moldado;
+•	Telhas onduladas, cerâmicas coloniais, em fibrocimento ou em policarbonato;
+•	Cumeeira em fibrocimento ou policarbonato. 
+ 
+##### As retiradas ocorrerão de acordo com o disposto a seguir:   
+A execução deste serviço será orientada por profissional habilitado, utilizando equipamentos adequados de modo a não danificar a estrutura da edificação e obedecendo aos critérios de segurança recomendados.
+Antes de iniciarem-se as retiradas, serão tomadas medidas adequadas, tais como o desligamento, retirada ou proteção das linhas de abastecimento de energia elétrica, água, gás e tubulações hidrossanitárias.
+Nas retiradas de piso paviflex ou de borracha, os pisos de concreto serão lixados e limpos para retirada da cola do piso anterior e posteriormente receberão nova cola para assentamento do novo piso.
+Todas as retiradas serão executadas cuidadosamente quebrando a alvenaria em volta com a utilização de ferramentas adequadas, com o rigor necessário para que não sejam danificadas as paredes contíguas bem como as áreas de trabalho próximas.
+O motor automático do portão será retirado e entregues no almoxarifado do CONTRATANTE e no caso de reaproveitamento será reinstalado conforme indicação do fiscal do CONTRATANTE.
+A retirada das peças de concreto da fachada será feita cuidadosamente com a utilização de guindaste. 
+Após a retirada do mastique das juntas de dilatação, o piso será limpo, o material resultante será considerado inaproveitável.
+Todos os materiais em condições de serem reaproveitados serão retirados cuidadosamente, limpos, transportados e armazenados em local apropriado.
+Os materiais inaproveitáveis serão retirados da obra como entulho, através dos serviços de transportes, descritos a seguir:
+1.5.3	CARGA MANUAL DE ENTULHO EM CAMINHÃO BASCULANTE
+O serviço aborda a escavação e carga de material de entulho em caminhão basculante.
+Serão tomadas todas as providências e cautelas aconselháveis para a segurança dos operários, garantia das propriedades vizinhas, redes públicas e preservação do meio ambiente.
+Serão obedecidas as Especificações Gerais para Serviços e Obras Rodoviárias do DER-CE.
+A escavação será feita através de trator de esteiras equipados com lâmina e/ou escarificador no caso dos cortes, serão obedecidas as cotas e distâncias indicadas no projeto executivo.
+No caso de empréstimos, tomar-se-á o cuidado de retirar a camada vegetal da jazida e estocá-la para posterior reposição, escavando-se mente o material da camada do solo indicada no projeto executivo.
+Este material será transportado pelo motoscreiper até o local indicado pela fiscalização.
+1.5.4	TRANSPORTE VERTICAL DE MATERIAIS/ENTULHO A GRANEL
+O serviço aborda a execução do transporte vertical de materiais (entulhos) a granel dos diversos andares da obra para o pilotis.
+Após a descida dos entulhos o transporte será realizado em caminhão basculante de 6,00m3 de capacidade, até a distância de no máximo 5 km em local indicado pela fiscalização.
+1.5.4.1	Transporte de materiais, exceto Rocha em caminhão
+Este serviço será especificado quanto à distância máxima percorrida, sendo de até 5km ou até 20km.
+Execução do transporte de material exceto rocha em caminhão até 5 km. O transporte será realizado em caminhão basculante de 6,00m3 de capacidade, até a distância de no máximo 5km em local indicado pela fiscalização.
+1.5.5	RASPAGEM E LIMPEZA DO TERRENO
+Os serviços de raspagem e limpeza visam retirar toda matéria orgânica da superfície do terreno até a profundidade de 50,00cm e facilitar o levantamento planialtimétrico, permitindo a obtenção de um retrato fiel de todos os acidentes do terreno e os serviços de reconhecimento do subsolo.
+A limpeza do terreno compreenderá os serviços de capina, limpeza, roçado, destocamento e remoção, de forma a deixar a área livre de raízes e tocos de árvores.
+Conforme o porte dos serviços, estes poderão ser realizados de forma manual (com facão, foice etc.) ou mecânica.
+Todo o material removido ou expurgado será depositado em área fora do terreno do CONTRATANTE, cabendo à CONTRATADA o pagamento das despesas decorrentes do deslocamento desse material para outro local.
+Os trabalhos de movimento de terra não serão iniciados enquanto as operações de desmatamento e limpeza do material orgânico não estiverem totalmente concluídas.
+1.5.6	RETIRADA DE ÁRVORES
+Concomitantemente à raspagem e limpeza do terreno, serão retiradas as árvores cujo corte esteja previsto no projeto, incluindo suas raízes, para que não haja possibilidade de brotamento.
+O material retirado terá uma destinação final adequada do ponto de vista ambiental.
+1.5.7	LOCAÇÃO DA OBRA
+Todo o trabalho de locação será efetuado com instrumento de precisão e pessoal habilitado.
+A CONTRATADA, inicialmente, verificará no campo todas as coordenadas e elevações dos marcos, dimensões, alinhamentos e ângulos conferindo-os com os fornecidos pelo CONTRATANTE através do projeto executivo. Qualquer divergência encontrada será imediatamente comunicada à FISCALIZAÇÃO, correndo por conta e risco da CONTRATADA todos os danos decorrentes de correções não realizadas.
+A locação da obra no terreno será realizada a partir das referências de nível e dos vértices de coordenadas implantados ou utilizados para a execução do levantamento topográfico.
+Os eixos de referência e as referências de nível serão materializados através de estacas de madeira cravadas na posição vertical ou marcos topográficos previamente implantados em placas metálicas fixadas em concreto.
+A locação será global, sobre quadros de madeira que envolvam todo o perímetro da obra. Os quadros, em tábuas ou sarrafos, serão perfeitamente nivelados e fixados de modo a resistirem aos esforços dos fios de marcação, sem oscilação e possibilidades de fuga da posição correta.
+A locação será feita sempre pelos eixos dos elementos construtivos, com marcação nas tábuas ou sarrafos dos quadros, por meio de cortes na madeira e pregos.
+A locação de sistemas viários internos e de trechos de vias de acesso será realizada pelos processos convencionais utilizados em estradas e vias urbanas, com base nos pontos de coordenadas definidos no levantamento topográfico.
+A FISCALIZAÇÃO verificará todo e qualquer trabalho de locação efetuado pela CONTRATADA, que será responsável por qualquer inexatidão que tenha origem em uma locação incompleta ou errada.
+A eventual ocorrência de erro na locação da obra será solucionada pela CONTRATADA, às suas expensas, através do que for necessário para o cumprimento do projeto, sejam modificações, demolições ou reposições.
+No que se refere à locação dos chumbadores, cuidados especiais serão tomados pela CONTRATADA, visando evitar erros, tendo em vista que as estruturas metálicas já vêm de fábrica com as furações de suas bases efetuadas.
+Até que a locação esteja executada e aprovada pela FISCALIZAÇÃO, a CONTRATADA manterá em perfeitas condições todas as referências de nível e alinhamento, visando permitir, se necessário, a reconstituição ou aferição dos serviços.
+
