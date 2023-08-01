@@ -335,3 +335,21 @@ O valor a ser pago pelos serviços de retirada de árvores será obtido pelo pro
 O valor a ser pago pelos serviços de locação da obra será obtido pelo produto do preço unitário pela medição, conforme item 1.6.5.
 
   
+
+
+# MOVIMENTO DE TERRA    
+  
+2.1	APRESENTAÇÃO    
+  
+Esta especificação estabelece a sistemática a ser empregada na execução e no controle da qualidade dos serviços de movimento de terra.   
+  
+2.2	OBJETIVO    
+  
+Fixar as características técnicas e de qualidade exigidas para os serviços de movimento de terra de acordo com os elementos constantes no projeto, assim como fornecer aos proponentes elementos para a preparação das propostas, estabelecendo normas e métodos de execução que serão adotados no decorrer dos serviços.
+
+2.3	REFERÊNCIAS
+Serão seguidos os projetos e os seguintes documentos:
+NBR 7182/1988 - Solo - Ensaio de compactação;
+NBR 5681/1980 - Controle tecnológico da execução de aterros em obras de edificações;
+NBR 12266/1992 - Projeto e execução de valas para assentamento de tubulação de água, esgoto e drenagem urbana;
+NBR 9061/1985 – Segurança de escavação a céu aberto.
