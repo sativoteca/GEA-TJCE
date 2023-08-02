@@ -1,5 +1,5 @@
 ---
-title: "Caderno de encargos e especificações técnicas"
+title: "Caderno de encargos: Seção III - Especificações Técnicas"
 author: "Rodrigo Bardon"
 date: "2023-07-31"
 output: 
@@ -337,19 +337,69 @@ O valor a ser pago pelos serviços de locação da obra será obtido pelo produt
   
 
 
+
 # MOVIMENTO DE TERRA    
   
-2.1	APRESENTAÇÃO    
+## APRESENTAÇÃO    
   
 Esta especificação estabelece a sistemática a ser empregada na execução e no controle da qualidade dos serviços de movimento de terra.   
   
-2.2	OBJETIVO    
+## OBJETIVO    
   
 Fixar as características técnicas e de qualidade exigidas para os serviços de movimento de terra de acordo com os elementos constantes no projeto, assim como fornecer aos proponentes elementos para a preparação das propostas, estabelecendo normas e métodos de execução que serão adotados no decorrer dos serviços.
 
-2.3	REFERÊNCIAS
+## REFERÊNCIAS
+
 Serão seguidos os projetos e os seguintes documentos:
-NBR 7182/1988 - Solo - Ensaio de compactação;
-NBR 5681/1980 - Controle tecnológico da execução de aterros em obras de edificações;
-NBR 12266/1992 - Projeto e execução de valas para assentamento de tubulação de água, esgoto e drenagem urbana;
-NBR 9061/1985 – Segurança de escavação a céu aberto.
+
+- NBR 7182/1988 - Solo - Ensaio de compactação; 
+- NBR 6457/2016 - Amostras de solo - Preparação para ensaios de compactação e ensaios de caracterização;
+- NBR 5681/1980 - Controle tecnológico da execução de aterros em obras de edificações;    
+- NBR 12266/1992 - Projeto e execução de valas para assentamento de tubulação de água, esgoto e drenagem urbana;    
+- NBR 9061/1985 - Segurança de escavação a céu aberto.    
+
+## CONDIÇÕES ESPECÍFICAS  
+
+### ESCAVAÇÃO  
+
+01. As escavações serão executadas de modo que a estrutura executada reproduza, fielmente, a geometria indicada no projeto.  
+
+02. A CONTRATADA investigará, dando ciência ao CONTRATANTE, a ocorrência de água agressiva no subsolo.  
+
+03. A proteção dos elementos constituintes da fundação contra a agressividade de águas subterrâneas será objeto de estudo específico por parte da CONTRATADA, bem como os cuidados de execução para assegurar a integridade e durabilidade da obra.  
+
+04. As conclusões dos estudos referidos no item anterior, bem como os processos e cuidados a serem adotados na execução dos trabalhos, serão submetidos à previa aprovação da FISCALIZAÇÃO, sem que tal aprovação elimine a responsabilidade da CONTRATADA.  
+
+05. A FISCALIZAÇÃO poderá, a seu critério e com despesas a cargo da CONTRATADA, solicitar a realização de provas de carga e medidas de recalque, tanto nos terrenos onde serão assentadas as fundações, como para verificação do comportamento das mesmas após suas execuções.  
+
+06. Para a execução dos serviços de escavação poderão ser adotados processos manuais ou mecânicos, sendo dada preferência a estes últimos. As escavações manuais serão restritas a locais de difícil acesso ou em cavas que tenham dimensões que não permitam o uso de equipamentos mecânicos.  
+
+07. A CONTRATADA retirará das escavações todo o material que não for necessário ou adequado ao reaterro, remanejando-o para fora do terreno do CONTRATANTE.  
+
+08. Serão formados estoques de material para reaterro nas proximidades das escavações, conservando-se, no entanto, uma distância conveniente, visando evitar desmoronamentos, carreamento para dentro das cavas e/ou obstáculos para a execução de outros trabalhos.  
+
+09. Quando o terreno, nos locais de execução das escavações de cavas, valas ou outras quaisquer, não apresentar coesão suficiente para a manutenção das paredes, será exigida a execução do escoramento das mesmas.  
+
+10. Será de inteira responsabilidade da CONTRATADA a estabilidade do terreno, estruturas e outras instalações próximas às escavações. Havendo recalques, rupturas ou erosões de solo, a mesma restabelecerá as condições originais de todos os serviços executados, sem nenhum ônus para o CONTRATANTE.  
+
+### TIPOS DE ESCAVAÇÃO  
+
+#### ESCAVAÇÃO MANUAL DE SOLO DE MATERIAL DE 1ª e 2ª CATEGORIAS, EM PROFUNDIDADE DE ATÉ 3 METROS  
+
+01. Em material de 1ª e 2ª categorias, em cavas para fundações, valas, galerias, drenos subterrâneos e outras partes da obra, previstas até a profundidade de 3 metros, de acordo com as indicações constantes do projeto de fundações, com os demais projetos da obra e com a natureza do terreno encontrada.  
+
+02. Antes de iniciar a escavação, a CONTRATADA informar-se-á a respeito de galerias, canalizações e cabos, na área onde serão realizados os trabalhos.  
+
+03. As escavações, caso necessário, serão convenientemente isoladas, escoradas e esgotadas, adotando-se todas as providências e cautelas aconselháveis para a segurança dos operários e garantia da edificação existente.  
+
+04. A escavação do solo e a retirada do material serão executadas obedecendo-se aos critérios de segurança recomendados.  
+
+#### ESCAVAÇÃO PARA FUNDAÇÃO COM RETROESCAVADEIRA  
+
+02.01. Escavação com retroescavadeira para fundação, vala, galerias e drenos subterrâneos de qualquer categoria de material.  
+
+02.02. Antes de iniciar a escavação mecânica, a CONTRATADA informar-se-á a respeito de galerias, canalização e cabos, na área onde serão realizados os trabalhos.  
+
+02.03. Serão tomadas todas as providências e cautelas aconselháveis para segurança dos operários, garantias das propriedades vizinhas e sedes públicas.  
+
+02.04. A escavação do solo e a retirada do material serão executadas obedecendo-se aos critérios de segurança recomendados.  
